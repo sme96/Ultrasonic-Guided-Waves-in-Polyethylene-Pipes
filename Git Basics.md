@@ -1,6 +1,6 @@
 # Start
 
-Use git clone to download files
+Use git clone to download files. Copy the address you want to download from Github by clicking the icon on the file you want.
 
 ## Git Add
 Use git add to get Git up to speed on all the changes to the code you've made.
