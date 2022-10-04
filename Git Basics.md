@@ -25,4 +25,5 @@ Username and user email have to match a profile on Git Hub.
 ## Git Push
 Use git push to make your updates live on GitHub. 
 
-## SSH Key
+## Navigating to your repository in Git Bash
+cd 'G:\My Drive\USGW Research\Programming\Git Practice\Ultrasonic-Guided-Waves-in-Polyethylene-Pipes'
